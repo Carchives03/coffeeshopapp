@@ -1,4 +1,4 @@
-# Siren Café coffeeshopapp
+# Siren Café Coffee App 
 Using swift UI I created a coffee app for The Siren Cafe. This was apart of a challenge with the Apple Developer Academy.  
 
 
